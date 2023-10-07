@@ -1,7 +1,4 @@
 """
-Student Name: Salwa Shama
-Student Number: 4010405
-UPM Email: 4010405@upm.edu.sa
 OS: Windows 11
 Python 3.10.9
 
