@@ -29,6 +29,14 @@ rotation
 ```
 git clone 
 ```
+2. run main.py file
+```
+python main.py
+```
+3. selected desriable opration from list (eneter 1, or 2)
+4. enter the image the path to the desired image to be modified
+5. enter
+6. 
 
 
 ## Contributor ✍️
